@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "job": "Managing Director",
+    "email": "john.smith@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 2,
+    "name": "Zara Potts",
+    "job": "Head of Technical",
+    "email": "zara.potts@example.com",
+    "phone": "01242 654 000",
+    "contract": "Part-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 3,
+    "name": "Andrew Henry",
+    "job": "Designer & Web Developer",
+    "email": "andrew.henry@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 4,
+    "name": "Leon Webster",
+    "job": "Web Developer",
+    "email": "leon.webster@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 5,
+    "name": "Hannah Pope",
+    "job": "Digital Account Manager",
+    "email": "hannah.pope@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 6,
+    "name": "Caitlin Elliott",
+    "job": "Senior Designer",
+    "email": "caitlin.elliott@example.com",
+    "phone": "01242 654 000",
+    "contract": "Part-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 7,
+    "name": "Logan Haynes",
+    "job": "Web Developer",
+    "email": "logan.haynes@example.com",
+    "phone": "01242 654 000",
+    "contract": "Part-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 8,
+    "name": "Christopher Bryan",
+    "job": "Senior Digital Account Manager",
+    "email": "christopher.bryan@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  },
+  {
+    "id": 9,
+    "name": "Sebastian Banks",
+    "job": "Business Development Executive",
+    "email": "sebastian.banks@example.com",
+    "phone": "01242 654 000",
+    "contract": "Full-time",
+    "thumbnail": ""
+  }
+]
